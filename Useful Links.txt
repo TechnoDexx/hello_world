@@ -6,13 +6,8 @@ https://try.github.io/levels/1/challenges/1
 
 http://www.atmel.com/devices/atmega162.aspx?tab=documents
 
-SETTING UP POSTGRESQL AS A LINKED SERVER IN MICROSOFT SQL SERVER 32-BIT
 
 ?language=ru
-
-Вам осталось ещё пройти тест SPQ и HS1944, а также написать о себе в "Представлениях участников форума"
-
-http://tvzvezda.ru/_finder/path/https://www.dropbox.com/s/jpaepn41ydb7lsi/kz_14.pdf?dl=0
 
 http://chipmk.ru/
 
@@ -21,9 +16,6 @@ Adobe Flash Player Full Installer - https://www.adobe.com/products/flashplayer/d
 http://en.m.wikipedia.org/wiki/Consequentialism
 
 http://subs.com.ru/
-
-Why Open Source Will Drive IoT Innovation
-192.30.252.136
 
 https://www.sparkfun.com/search/tutorials?term=eagle
 
