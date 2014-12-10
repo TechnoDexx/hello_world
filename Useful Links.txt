@@ -19,7 +19,7 @@ http://en.m.wikipedia.org/wiki/Consequentialism
 http://subs.com.ru/
 
 https://www.sparkfun.com/search/tutorials?term=eagle
-
+https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints
 
 http://sharpdx.org/
 
