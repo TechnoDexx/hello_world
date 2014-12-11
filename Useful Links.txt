@@ -1,5 +1,8 @@
 ﻿ATATMEL-ICE-ND
 
+http://www.instructables.com/id/Haptic-Feedback-device-for-the-Visually-Impaired/ - главный проект.
+Под него нужно изготовить специализированную плату?
+
 http://tibet-medicine.ru/sovrmed/izzhoga/narodnye-sredstva
 
 https://try.github.io/levels/1/challenges/1
