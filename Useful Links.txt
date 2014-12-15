@@ -1,4 +1,6 @@
-﻿ATATMEL-ICE-ND
+﻿https://itmanagerduels.intel.com/ru_ru/
+
+ATATMEL-ICE-ND
 http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 
 http://www.instructables.com/id/Haptic-Feedback-device-for-the-Visually-Impaired/ - главный проект.
