@@ -5,31 +5,77 @@ http://sdelaikamin.ru/metallicheskie-pechi/pech-dlitelnogo-goreniya-svoimi-rukam
 
 >>>
 
+
+>> ИТ Менеджер. Дуэли
+
 https://itmanagerduels.intel.com/ru_ru/
+
+>>>
+
+
+>>> О женщинах
 
 http://mirpoleznuxsovetov.mirtesen.ru/blog/43722590891/SHikarno-napisano-Muzhchinoy?utm_campaign=transit&utm_source=main&utm_medium=page_0&domain=mirtesen.ru&paid=1&pad=1
 
+>>> 
+
+
+>> Статьи об Arduino
+
 http://chingachgook.net/category/arduino
 
-http://www.lastfm.ru/user/KellsListener
+>>>
 
-http://ukraina.ru/interview/20141216/1011505289.html
+>>> Запчасти и инструменты
 
 ATATMEL-ICE-ND
 LUKEY - 852D+
 
+>>>
+
+
+>> FT232RL Datasheet
+
 http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 
+>>>
+
+
+>>> HALO. Проект для слепых
+
 http://www.instructables.com/id/Haptic-Feedback-device-for-the-Visually-Impaired/ - главный проект.
+
 Под него нужно изготовить специализированную плату?
+
+>>> 
+
+
+>>> Народные средства от изжоги
 
 http://tibet-medicine.ru/sovrmed/izzhoga/narodnye-sredstva
 
+>>>
+
+
+>>> GitHub Learning
+
 https://try.github.io/levels/1/challenges/1
+
+>>>
+
+
+>>> Виртуальный компьютерный музей
+
+http://www.computer-museum.ru/ 
+
+>>>
+
+
+>>>
 
 http://www.atmel.com/devices/atmega162.aspx?tab=documents
 
-http://www.computer-museum.ru/ - Виртуальный компьютерный музей.
+>>>
 
 ?language=ru
 
