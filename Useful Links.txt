@@ -6,7 +6,7 @@ http://sdelaikamin.ru/metallicheskie-pechi/pech-dlitelnogo-goreniya-svoimi-rukam
 >>>
 
 
->> ИТ Менеджер. Дуэли
+>>> ИТ Менеджер. Дуэли
 
 https://itmanagerduels.intel.com/ru_ru/
 
@@ -20,7 +20,7 @@ http://mirpoleznuxsovetov.mirtesen.ru/blog/43722590891/SHikarno-napisano-Muzhchi
 >>> 
 
 
->> Статьи об Arduino
+>>> Статьи об Arduino
 
 http://chingachgook.net/category/arduino
 
@@ -34,8 +34,10 @@ LUKEY - 852D+
 >>>
 
 
->> FT232RL Datasheet
+>>> FT232RL Datasheet
 
+=======
+>>>>>>> fbc73037cdf06228f13a71e4d04d5e9b2933105f
 http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 
 >>>
@@ -79,9 +81,20 @@ http://www.atmel.com/devices/atmega162.aspx?tab=documents
 
 ?language=ru
 
+
+
+>>> Всё о микроконтроллерах
+
 http://chipmk.ru/
 
-Adobe Flash Player Full Installer - https://www.adobe.com/products/flashplayer/distribution3.html
+>>>
+
+
+>>> Adobe Flash Player Full Installer
+
+ https://www.adobe.com/products/flashplayer/distribution3.html
+
+>>>
 
 http://en.m.wikipedia.org/wiki/Consequentialism
 
