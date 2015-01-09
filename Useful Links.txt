@@ -6,7 +6,22 @@ http://sdelaikamin.ru/metallicheskie-pechi/pech-dlitelnogo-goreniya-svoimi-rukam
 >>>
 
 
->> ИТ Менеджер. Дуэли
+>>> Сообщество ветеранов спецназа
+
+http://spec-naz.org/
+http://spec-naz.org/articles/russian_special_forces/rasskaz_boytsov_alfy_o_mezhdunarodnykh_sorevnovaniyakh_super_swat_international_round_up_2011/
+
+>>>
+
+
+>>> Всё об оружии. Остановился на этой странице
+
+http://orujie.mirtesen.ru/blog?page=12
+
+>>>
+
+
+>>> ИТ Менеджер. Дуэли
 
 https://itmanagerduels.intel.com/ru_ru/
 
@@ -20,11 +35,12 @@ http://mirpoleznuxsovetov.mirtesen.ru/blog/43722590891/SHikarno-napisano-Muzhchi
 >>> 
 
 
->> Статьи об Arduino
+>>> Статьи об Arduino
 
 http://chingachgook.net/category/arduino
 
 >>>
+
 
 >>> Запчасти и инструменты
 
@@ -34,7 +50,7 @@ LUKEY - 852D+
 >>>
 
 
->> FT232RL Datasheet
+>>> FT232RL Datasheet
 
 http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 
@@ -71,35 +87,67 @@ http://www.computer-museum.ru/
 >>>
 
 
->>>
-
-http://www.atmel.com/devices/atmega162.aspx?tab=documents
-
->>>
-
-?language=ru
+>>> Всё о микроконтроллерах
 
 http://chipmk.ru/
 
-Adobe Flash Player Full Installer - https://www.adobe.com/products/flashplayer/distribution3.html
+>>>
 
-http://en.m.wikipedia.org/wiki/Consequentialism
 
-http://subs.com.ru/
+>>> Adobe Flash Player Full Installer
+
+ https://www.adobe.com/products/flashplayer/distribution3.html
+
+>>>
+
+
+>>> Sparkfun Eagle Tutorial
 
 https://www.sparkfun.com/search/tutorials?term=eagle
 https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints
 
+>>>
+
+
+>>> SharpDX - Managed DirectX
+
 http://sharpdx.org/
+
+>>>
+
+
+>>> Тесты на синдром Аспергера
 
 http://www.aspergers.ru/tests
 
+>>>
+
+
+>>> NewbieHack - Learn Mechatronics, Microcontrollers, Robotics, Programming and Machine Learning
+
 https://www.newbiehack.com/
+
+>>>
+
+
+>>> Life Hacks
 
 http://www.cracked.com/quick-fixes/the-60-second-guide-to-bullshit-free-life/
 
 http://www.adme.ru/svoboda-psihologiya/5-oshibok-kotorymi-vy-vredite-sobstvennoj-zhizni-dazhe-ne-znaya-ob-etom-802610/
 
+>>>
+
+
+>>> Atmel Web Help
+
 http://www.atmel.com/webdoc/index.html
 
+>>>
+
+
+>>>
+
 "C:\Program Files\Microsoft Help Viewer\v2.0\HlpViewer.exe" /catalogName VisualStudio11 /helpQuery method=f1&query=msdnstart /locale ru-RU /sku 500 /launchingApp Microsoft,WDExpress,11.0
+
+>>>
