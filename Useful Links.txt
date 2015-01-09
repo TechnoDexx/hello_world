@@ -5,18 +5,31 @@ http://sdelaikamin.ru/metallicheskie-pechi/pech-dlitelnogo-goreniya-svoimi-rukam
 
 >>>
 
+
+>> ИТ Менеджер. Дуэли
+
 https://itmanagerduels.intel.com/ru_ru/
+
+>>>
+
+>>> О женщинах
 
 http://mirpoleznuxsovetov.mirtesen.ru/blog/43722590891/SHikarno-napisano-Muzhchinoy?utm_campaign=transit&utm_source=main&utm_medium=page_0&domain=mirtesen.ru&paid=1&pad=1
 
+>>> 
+
+>> Статьи об Arduino
+
 http://chingachgook.net/category/arduino
 
-http://www.lastfm.ru/user/KellsListener
+>>>
 
-http://ukraina.ru/interview/20141216/1011505289.html
+>>> Запчасти и инструменты
 
 ATATMEL-ICE-ND
 LUKEY - 852D+
+
+>>>
 
 http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 
