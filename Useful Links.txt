@@ -16,7 +16,11 @@ http://spec-naz.org/articles/russian_special_forces/rasskaz_boytsov_alfy_o_mezhd
 
 >>> Всё об оружии. Остановился на этой странице
 
+<<<<<<< HEAD
 http://orujie.mirtesen.ru/blog?page=20
+=======
+http://orujie.mirtesen.ru/blog?page=12
+>>>>>>> bbd9968e6fafd6d5c1bd8551ebcc0df8983b6f6b
 
 >>>
 
