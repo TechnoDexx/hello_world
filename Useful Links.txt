@@ -1,12 +1,16 @@
-﻿
-Ход Липсон создаёт осознающих себя роботов
-
-
->>> Очень важная Информация: Печь длительного горения
+﻿>>> Очень важная Информация: Печь длительного горения
 
 http://sdelaikamin.ru/metallicheskie-pechi/pech-dlitelnogo-goreniya-svoimi-rukami-164
 
 >>>
+
+
+>>> Работа в Eagle - мануал от DiHalt 
+
+http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html
+http://easyelectronics.ru/rabota-v-eagle-cad-chast-2.html
+
+>>> 
 
 
 >>> Doom Online
