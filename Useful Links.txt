@@ -5,6 +5,13 @@ http://sdelaikamin.ru/metallicheskie-pechi/pech-dlitelnogo-goreniya-svoimi-rukam
 >>>
 
 
+>>> Прошивка для роутера (TP-LINK)
+
+http://www.tp-link.com/en/support/download/?model=TD-W8968&version=V2
+
+>>>
+
+
 >>> Работа в Eagle - мануал от DiHalt 
 
 http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html
