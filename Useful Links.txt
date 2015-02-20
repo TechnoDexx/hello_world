@@ -5,6 +5,13 @@ http://profitest.devicecollection.com/tests-list/online-opredelitel-rolej-v-koma
 >>>
 
 
+>>> Qiwi Vallet (J2Me)
+
+https://visa.qiwi.ru/applications/client.action?cid=j2me
+
+>>>
+
+
 >>> HandyCache (ссылка на Yandex Диск)
 
 https://yadi.sk/d/Ra9WVbLJen72k
